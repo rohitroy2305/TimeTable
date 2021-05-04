@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name" translatable="false">TimeTable</string>
+    <string-array name="Main">
+        <item>Timetable</item>
+        <item>Subjects</item>
+        <item>Faculty</item>
+        <item>Resources</item>
+    </string-array>
+    <string-array name="Description">
+        <item>Description 1</item>
+        <item>Description 2</item>
+        <item>Description 3</item>
+        <item>Description 4</item>
+    </string-array>
+    <string-array name="Week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+
+    <string-array name="Monday">
+        <item>Data Structure and Algorithm</item>
+        <item>Bluetooth</item>
+        <item>Mobile Computing</item>
+        <item>Break</item>
+        <item>System Administration</item>
+    </string-array>
+
+    <string-array name="Tuesday">
+        <item>System Administration</item>
+        <item>Mobile Computing</item>
+    </string-array>
+
+    <string-array name="Wednesday">
+        <item>Bluetooth</item>
+        <item>Computer Networks</item>
+        <item>Introduction to Kotlin</item>
+    </string-array>
+
+    <string-array name="Thursday">
+        <item>Data Structure and Algorithm</item>
+        <item>Data Structure and Algorithm</item>
+        <item>Distributed Databases</item>
+    </string-array>
+
+    <string-array name="Friday">
+        <item> Android Lab</item>
+        <item> Android Lab</item>
+        <item> Android Lab</item>
+        <item>Break</item>
+        <item> Club activities</item>
+    </string-array>
+
+    <string-array name="Time1">
+        <item>9:00 A.M - 9:55 A.M</item>
+        <item>9:55 A.M - 10:50 A.M</item>
+        <item>10:50 A.M - 11:45 A.M</item>
+        <item>11:45 A.M - 12:40 P.M</item>
+        <item>12:40 P.M - 1:35 P.M</item>
+    </string-array>
+    <string-array name="Time2">
+        <item>9:00 A.M - 9:55 A.M</item>
+        <item>9:55 A.M - 10:50 A.M</item>
+    </string-array>
+    <string-array name="Time3">
+        <item>9:00 A.M - 9:55 A.M</item>
+        <item>9:55 A.M - 10:50 A.M</item>
+        <item>10:50 A.M - 11:45 A.M</item>
+    </string-array>
+    <string-array name="Time4">
+        <item>9:00 A.M - 9:55 A.M</item>
+        <item>9:55 A.M - 10:50 A.M</item>
+        <item>10:50 A.M - 11:45 A.M</item>
+    </string-array>
+    <string-array name="Time5">
+        <item>9:00 A.M - 9:55 A.M</item>
+        <item>9:55 A.M - 10:50 A.M</item>
+        <item>10:50 A.M - 11:45 A.M</item>
+        <item>11:45 A.M - 12:40 P.M</item>
+        <item>12:40 P.M - 1:35 P.M</item>
+    </string-array>
+
+    <string-array name="Subjects">
+        <item>Distributed Databases</item>
+        <item>System Administration</item>
+        <item>Android Lab</item>
+        <!--<item>Bluetooth</item>
+        <item>Mobile Computing</item>
+        <item>Introduction to Kotlin</item>
+        <item>Data Structure and Algorithm</item> -->
+    </string-array>
+    <string-array name="DistributedDatabases">
+        <item>Mod1 syllabus</item>
+        <item>Mod2 syllabus</item>
+        <item>Mod3 syllabus</item>
+        <item>Mod4 syllabus</item>
+    </string-array>
+    <string-array name="SystemAdministration">
+        <item>Mod1 syllabus</item>
+        <item>Mod2 syllabus</item>
+        <item>Mod3 syllabus</item>
+        <item>Mod4 syllabus</item>
+    </string-array>
+    <string-array name="AndroidLab">
+        <item>Mod1 syllabus</item>
+        <item>Mod2 syllabus</item>
+        <item>Mod3 syllabus</item>
+        <item>Mod4 syllabus</item>
+    </string-array>
+    <string-array name="Titles">
+        <item>Mod 1</item>
+        <item>Mod 2</item>
+        <item>Mod 3</item>
+        <item>Mod 4</item>
+    </string-array>
+    <string-array name="faculty_name">
+        <item>Faculty 1 </item>
+        <item>Faculty 2</item>
+        <item>Faculty 3</item>
+        <item>Faculty 4</item>
+    </string-array>
+    <string-array name="faculty1">
+    <item>9874722985</item>
+    <item>arindam.chatterjee@heritageit.edu</item>
+    <item>Assistant Professor</item>
+    </string-array>
+    <string-array name="faculty2">
+        <item>9830614613</item>
+        <item>nilina.bera@heritageit.edu</item>
+        <item>Assistant Professor</item>
+    </string-array>
+    <string-array name="faculty3">
+        <item>9830699421</item>
+        <item>sabyasachi.banerjee@heritageit.edu</item>
+        <item>Assistant Professor</item>
+    </string-array>
+    <string-array name="faculty4">
+        <item>7044903368</item>
+        <item>poulami.das@heritageit.edu</item>
+        <item>Assistant Professor</item>
+    </string-array>
+</resources>
